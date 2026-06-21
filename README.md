@@ -11,7 +11,7 @@ The primary objective of this project is to identify key drivers of employee att
 ## Tools & Technologies Used
 
 * MySQL
-* Python (Pandas, NumPy, Matplotlib)
+* Python
 * Power BI
 * Microsoft Excel
 
